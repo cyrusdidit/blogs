@@ -1,0 +1,31 @@
+
+
+body {
+    background-color: #061433;
+    color: #86a6e9;
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+h1{
+    color: #86a6e9;
+}
+
+
+a{
+    color: #86a6e9;
+    text-decoration: none;
+}
+
+li:hover{
+    color: #dae2f4;
+}
+
+a:hover{
+    color: #dae2f4;
+}
